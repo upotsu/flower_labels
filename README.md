@@ -1,5 +1,9 @@
 # 5種類の植物画像判定アプリ
 
+<p align="center">
+  <img src="app_select.png" alt="アプリ起動" width="45%">
+  <img src="test.png" alt="判定結果" width="45%">
+</p>
 
 # 使用技術など
 使用言語：Python（ver.3.13.7）  
